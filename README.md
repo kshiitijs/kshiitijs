@@ -1,4 +1,4 @@
-# Simon Gravelle
+# Kshiitij Srivastava
 
 Computer physicist in soft matter and fluids at interfaces in LIPhy (UGA, CNRS),
 in Grenoble, France.
